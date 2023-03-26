@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.teacher_from p{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.teacher_from button{
+    background-color: #043668;
+    color: white; 
+}

@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.work_details .work_text{
+    background-color: #043668;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-bottom: 15px;
+}
+.work_details .work_contant span{
+    font-weight: bold;
+}
+.work_details .work_contant ul li{
+    list-style: none;
+}
+.work_details .skill_ex{
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.work_details .skill_ex .skill_btn .php{
+    background-color: #043668;
+    color: aliceblue;
+}
+.work_details .apply{
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+.icon{
+    color:#043668;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 20px;
+}
+.button .php{
+    background-color: #043668;
+    color: aliceblue;
+}

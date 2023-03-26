@@ -1,0 +1,24 @@
+.top_bar{
+    background-color: #043668;
+    color: white;
+}
+.Sicon{
+    padding: 0px 3px;
+}
+li:hover{
+    border-bottom: 2px solid;  
+}
+.nav_menu{
+    display: flex;
+    justify-content: end;
+}
+.logo{
+    width: 65px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 480px) {
+    .logo{
+     width: 45px;
+    }
+}

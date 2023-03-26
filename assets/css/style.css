@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.background_img{
+    background-image: url(../images/banner-any-3.6b1c4f64.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.bar p{
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 25px;
+    background-color:  #043668;
+}
+.about_work a {
+    background-color: #043668; 
+}
+.bottom_top .box {
+    width: 70px;
+    height:70px;
+    border-radius: 50%;
+    background-color: rgb(223 223 223);
+}
+i.fa.fa-book {
+    color: #043668;
+    font-size: 50px;
+}
+.bottom_top p{
+    color: #043668;
+    font-size: 25px;
+}
+.bottom_top p:last-child {
+    color: gray;
+    font-size: 16px;
+}
+
+/* fotter CSS Starat  */
+
+.fotter{
+    text-align: left;
+    color: gray;
+}
+.fotter a{
+    display: block;
+    padding: 7px 0px;
+    color: gray;
+    text-decoration: none;
+}
+.fotter p .ficon{
+    padding-right: 10px;
+}
